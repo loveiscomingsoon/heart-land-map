@@ -1,0 +1,98 @@
+{
+  "checked": [
+    {
+      "deed": "56738",
+      "lat": 18.76936297,
+      "lon": 99.05941509,
+      "area": "18 ไร่ 3 งาน 79 ตารางวา",
+      "location": "สันกลาง สันกำแพง เชียงใหม่",
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "56737",
+      "lat": 18.76818559,
+      "lon": 99.0595563,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "56736",
+      "lat": 18.76791904,
+      "lon": 99.05777362,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "56741",
+      "lat": 18.76998921,
+      "lon": 99.05887783,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "56745",
+      "lat": 18.76917413,
+      "lon": 99.05694403,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "55749",
+      "lat": 18.76850991,
+      "lon": 99.05673981,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "55750",
+      "lat": 18.76810608,
+      "lon": 99.05577029,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "55748",
+      "lat": 18.76755164,
+      "lon": 99.05611193,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "55747",
+      "lat": 18.76784543,
+      "lon": 99.05712869,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "339",
+      "lat": 18.76933214,
+      "lon": 99.0610258,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "341",
+      "lat": 18.76848093,
+      "lon": 99.06194697,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "69251",
+      "lat": 18.76899232,
+      "lon": 99.06136632,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    },
+    {
+      "deed": "101667",
+      "lat": 18.76842301,
+      "lon": 99.0564415,
+      "source": "LandsMaps",
+      "checked": "2026-11-08"
+    }
+  ],
+  "status": "all_13_coordinates_checked"
+}

@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "56738",
+        "name": "โฉนด 56738",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05941509,
+          18.76936297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "56737",
+        "name": "โฉนด 56737",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0595563,
+          18.76818559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "56736",
+        "name": "โฉนด 56736",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05777362,
+          18.76791904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "56741",
+        "name": "โฉนด 56741",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05887783,
+          18.76998921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "56745",
+        "name": "โฉนด 56745",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05694403,
+          18.76917413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "55749",
+        "name": "โฉนด 55749",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": "แปลงแยกใกล้ 101667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05673981,
+          18.76850991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "55750",
+        "name": "โฉนด 55750",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05577029,
+          18.76810608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "55748",
+        "name": "โฉนด 55748",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05611193,
+          18.76755164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "55747",
+        "name": "โฉนด 55747",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.05712869,
+          18.76784543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "339",
+        "name": "โฉนด 339",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0610258,
+          18.76933214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "341",
+        "name": "โฉนด 341",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.06194697,
+          18.76848093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "69251",
+        "name": "โฉนด 69251",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.06136632,
+          18.76899232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deed": "101667",
+        "name": "โฉนด 101667",
+        "checked": "2026-11-08",
+        "source": "LandsMaps กรมที่ดิน",
+        "source_url": "https://landsmaps.dol.go.th/",
+        "subdistrict": "สันกลาง",
+        "district": "สันกำแพง",
+        "province": "เชียงใหม่",
+        "position_type": "ค่าพิกัดแปลงที่ระบบแสดง ไม่ใช่มุมเขต",
+        "note": "แปลงแยกใกล้ 55749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0564415,
+          18.76842301
+        ]
+      }
+    }
+  ]
+}
