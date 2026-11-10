@@ -1,0 +1,149 @@
+{
+  "source_image": "images/reference-overview.jpg",
+  "target_basemap": "Esri World Imagery (same service as online map)",
+  "target_service": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+  "target_export_bbox_wgs84": [
+    99.05531861,
+    18.76727063,
+    99.06195999,
+    18.77075576
+  ],
+  "target_export_image_sr": 3857,
+  "target_size": [
+    1512,
+    838
+  ],
+  "date": "2026-11-10",
+  "method": "least-squares affine registration in image coordinates; 7 manually matched landmarks",
+  "control_points": [
+    {
+      "name": "มุมตะวันตกเฉียงเหนือของแปลงปลูกเป็นแถว",
+      "source_pixel": [
+        637,
+        362
+      ],
+      "target_pixel": [
+        568,
+        209
+      ]
+    },
+    {
+      "name": "มุมตะวันออกเฉียงเหนือของแปลงปลูกเป็นแถว",
+      "source_pixel": [
+        735,
+        340
+      ],
+      "target_pixel": [
+        684,
+        191
+      ]
+    },
+    {
+      "name": "มุมตะวันออกเฉียงใต้ของแปลงปลูกเป็นแถว",
+      "source_pixel": [
+        740,
+        574
+      ],
+      "target_pixel": [
+        690,
+        460
+      ]
+    },
+    {
+      "name": "มุมตะวันตกเฉียงใต้ของแปลงปลูกเป็นแถว",
+      "source_pixel": [
+        637,
+        574
+      ],
+      "target_pixel": [
+        568,
+        458
+      ]
+    },
+    {
+      "name": "ทางแยกด้านตะวันตกของแปลงปลูก",
+      "source_pixel": [
+        622,
+        503
+      ],
+      "target_pixel": [
+        555,
+        374
+      ]
+    },
+    {
+      "name": "โค้งทางด้านตะวันออกของเว้าบ้านทางใต้",
+      "source_pixel": [
+        1012,
+        847
+      ],
+      "target_pixel": [
+        1005,
+        778
+      ]
+    },
+    {
+      "name": "แนวโค้งร่องน้ำด้านตะวันตกเฉียงใต้",
+      "source_pixel": [
+        650,
+        853
+      ],
+      "target_pixel": [
+        588,
+        789
+      ]
+    }
+  ],
+  "check_points": [
+    {
+      "name": "ทางและร่องน้ำโค้งฝั่งตะวันตก",
+      "source_pixel": [
+        543,
+        650
+      ],
+      "target_pixel": [
+        463,
+        548
+      ]
+    },
+    {
+      "name": "มุมด้านตะวันออกของสนามกีฬา",
+      "source_pixel": [
+        264,
+        710
+      ],
+      "target_pixel": [
+        139,
+        620
+      ]
+    }
+  ],
+  "limitation": "Manual visual registration to current Esri imagery, not survey. Image dates/providers can differ. Residual measures image matching only, not ground/legal boundary accuracy.",
+  "affine_source_to_target": [
+    [
+      1.1554666895513477,
+      0.0017897939222069742
+    ],
+    [
+      0.005258116705207078,
+      1.1696630771753016
+    ],
+    [
+      -168.39642793117687,
+      -212.9503549431563
+    ]
+  ],
+  "control_residual_pixels": [
+    3.028,
+    5.128,
+    0.41,
+    3.087,
+    3.237,
+    1.613,
+    3.182
+  ],
+  "check_residual_pixels": [
+    0.637,
+    2.444
+  ]
+}
